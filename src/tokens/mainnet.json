@@ -614,5 +614,13 @@
     "decimals": 6,
     "chainId": 56,
     "logoURI": "https://tokens.bscswap.com/images/0xA8c2B8eec3d368C0253ad3dae65a5F2BBB89c929.png"
+  },
+  {
+    "name": "BSCswap Governance Token V2",
+    "address": "0xf388ee045cab30321db3fb69eab7dfb0c20f10ec",
+    "symbol": "BSWAP",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://tokens.bscswap.com/images/0xf388ee045cab30321db3fb69eab7dfb0c20f10ec.png"
   }
 ]
